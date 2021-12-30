@@ -29,7 +29,7 @@
         <img width ='32px' src ='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_solidity_icon_130436.png'> 
 
 </span>
-    <span align="right" style="display:inline; color: red;">
+    <span style="display:inline; color: red; float: right;">
                          <img width ='32px' src ='https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg'> 
         <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> 
                  </span>
