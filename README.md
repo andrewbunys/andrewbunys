@@ -20,20 +20,19 @@
 - ⚡ Fun fact: I love to woodwork and I love technology. Coding is the combination of both worlds ;)
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<div style="border: 1px solid red;">
-    <span style="float: left">
- <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> 
- <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
- <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> 
- <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> 
-        <img width ='32px' src ='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_solidity_icon_130436.png'> 
-
-</span>
-    <span style="float:right;">
-                         <img width ='32px' src ='https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg'> 
-        <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> 
-                 </span>
-    </div>
+<div>
+    <span style="float: left;">
+         <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> 
+         <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
+         <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> 
+         <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> 
+         <img width ='32px' src ='https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_solidity_icon_130436.png'> 
+    </span>
+    <span style="float:right;" align="right">
+         <img width ='32px' src ='https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg'> 
+         <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> 
+    </span>
+</div>
   
 <br>
 <br>
