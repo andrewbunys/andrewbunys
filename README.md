@@ -11,7 +11,7 @@
 
 <h2> About Me </h2>
 
-<img width="55%" align="right" alt="Github" src="https://mpng.subpng.com/20190209/wwv/kisspng-clip-art-computer-programming-computer-software-so-tvos-development-5c5eba9e83d335.22115048154971203054.jpg" />
+<img width="55%" align="right" alt="Github" src="" />
 
 - 🔭 I’m currently working on a CrowdFunding Dapp for the Ethereum chain
   
