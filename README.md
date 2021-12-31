@@ -11,7 +11,7 @@
 
 <h2> About Me </h2>
 
-<img width="55%" align="right" alt="Github" src="https://imgur.com/a/eFuSTsA" />
+<img width="55%" align="right" alt="Github" src="https://i.imgur.com/bsORvQV.png" />
 
 - 🔭 I’m currently working on a CrowdFunding Dapp for the Ethereum chain
   
