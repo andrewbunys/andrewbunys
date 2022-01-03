@@ -23,7 +23,9 @@
 
 
     <h3>Frontend Tools</h3>
+    <div>
     <span>
+    
          <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> 
          <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
          <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> 
@@ -33,6 +35,7 @@
    
     
 </span>
+</div>
   
     <div>
     <h3>Backend Tools</h3>
